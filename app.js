@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 mongoose.connect(
-    'mongodb://localhost/ChatApp',
+    'mongodb://0.0.0.0/test_chat_v2',
     {
         useCreateIndex: true,
         useNewUrlParser: true
