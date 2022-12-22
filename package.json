@@ -12,7 +12,7 @@
   "dependencies": {
     "bcrypt": "^3.0.8",
     "express": "^4.16.3",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.3.1",
     "morgan": "^1.9.1",
     "socket.io": "^2.1.1"
